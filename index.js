@@ -1,1 +1,1 @@
-olá pierot!
+console.log("olá Pierot")
